@@ -1,6 +1,6 @@
 # Data Jobs Dashboard w/ Power Bi
 
-![Dashboard Page 1](/Images/Progect%201%20page1.png)
+![Dashboard Page 1](/Images/Project1%20page1.png)
 
 ## Introduction 
 
